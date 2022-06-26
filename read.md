@@ -4,3 +4,4 @@
     * git add --all: Adicionar todos os arquivos modificados para o repositorio local
     * git commit -m "" : Adicionar no repositorio local arquivos que foram mudados.
     * git diff: As diferenças que existe entre commits
+    * git log: Mostrar todos os commits feitos ate hoje.
