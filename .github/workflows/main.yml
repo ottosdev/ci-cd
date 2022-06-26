@@ -1,0 +1,19 @@
+name: Github Actions
+
+on:
+  push:
+    branches: ["*"] # Deixa todas as branches para serem testadas
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkou@v2
+      - uses: actions/setup-node@v1
+          with: 
+            node-version: 16
+      - run: npm ci
+      - run: npm test
+      - run: npm build
+      - run: npm deploy
+      

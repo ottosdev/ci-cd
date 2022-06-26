@@ -1,0 +1,14 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests runing... \"",
+    "build": "echo \"Build runing... \"",
+    "deploy": "echo \"Deploying new build to cloud server... \""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
