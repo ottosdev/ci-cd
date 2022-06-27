@@ -6,3 +6,5 @@
     * git diff: As diferenças que existe entre commits
     * git log: Mostrar todos os commits feitos ate hoje.
     * git checkout numero_commit: Retorna para esse ponto do versionamento;
+    * git reset --hard: Desfazer todas as alteracoes feitas de todos os arquivos alteracoes nesse momento. 
+    * git push: Adicionando as alteracoes feitas no servidor
