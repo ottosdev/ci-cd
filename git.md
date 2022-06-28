@@ -8,3 +8,9 @@
     * git checkout numero_commit: Retorna para esse ponto do versionamento;
     * git reset --hard: Desfazer todas as alteracoes feitas de todos os arquivos alteracoes nesse momento. 
     * git push: Adicionando as alteracoes feitas no servidor
+
+
+    * git branch: Listar todas as branchs
+    * git branch 'nome': criar uma branch
+    * git checkout 'nome': Muda da branch atual para outra 
+    * git checkout -b 'nome': cria uma branch e ja faz a mudança para a mesma
