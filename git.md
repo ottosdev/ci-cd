@@ -15,3 +15,6 @@
     * git checkout 'nome': Muda da branch atual para outra 
     * git checkout -b 'nome': cria uma branch e ja faz a mudança para a mesma
     * git push --delete origin nome
+    * git branch -m "nome da branch" (Renomear localmente)
+
+# Mesclar altercaoes
