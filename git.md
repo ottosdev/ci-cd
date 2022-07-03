@@ -14,3 +14,4 @@
     * git branch 'nome': criar uma branch
     * git checkout 'nome': Muda da branch atual para outra 
     * git checkout -b 'nome': cria uma branch e ja faz a mudança para a mesma
+    * git push --delete origin nome
