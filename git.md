@@ -35,3 +35,11 @@
 criar tag: git tag -a "nome da versao" -m "descricao"
 enviar tag: git push origin "nome da tag"
 git checkout "nome da tag"
+
+# Stash 
+
+   ADicionar em memoria o commit 
+   git stash save "descricao do stash"
+   git stash apply: pega o ultimo stash feito e adiciona 
+   git stash pop : pega o  ultimo stash feito adicionando e deletando
+   
