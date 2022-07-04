@@ -46,3 +46,6 @@ git checkout "nome da tag"
 # Fetch
    Tras alteracoes que vem do repositorio sem fazer modificaoes em local
    Tras: nopvas branchs, tags, novos commits que estao na maquina local.
+
+# Rebase
+   
