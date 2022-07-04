@@ -29,3 +29,9 @@
 
 # Hack
    * git commit -a -m "commit" -> mesma coisa de fazer um add . e um -m so que tudo junto
+
+# tag
+
+criar tag: git tag -a "nome da versao" -m "descricao"
+enviar tag: git push origin "nome da tag"
+git checkout "nome da tag"
