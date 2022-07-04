@@ -18,3 +18,10 @@
     * git branch -m "nome da branch" (Renomear localmente)
 
 # Mesclar altercaoes
+   Especificar qual branch voce que puxar alteracoes 
+   Vamos supor voce esta na branch X e fez diversas alteracoes
+   Entao precisa pegar essas alteracoes e colocar na branch principal chamar de Y
+   Faça um push de tudo que voce fez para o servidor da branch X
+   "git checkout Y" para ir direto para branch Y
+   utilize o seguinte comando: git merge X
+   Com isso tudo que esta em X ira para Y
