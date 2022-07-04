@@ -42,4 +42,7 @@ git checkout "nome da tag"
    git stash save "descricao do stash"
    git stash apply: pega o ultimo stash feito e adiciona 
    git stash pop : pega o  ultimo stash feito adicionando e deletando
-   
+
+# Fetch
+   Tras alteracoes que vem do repositorio sem fazer modificaoes em local
+   Tras: nopvas branchs, tags, novos commits que estao na maquina local.
