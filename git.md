@@ -25,3 +25,7 @@
    "git checkout Y" para ir direto para branch Y
    utilize o seguinte comando: git merge X
    Com isso tudo que esta em X ira para Y
+
+
+# Hack
+   * git commit -a -m "commit" -> mesma coisa de fazer um add . e um -m so que tudo junto
